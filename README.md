@@ -1,0 +1,3 @@
+# nlp
+
+### ALL THE PROJECTS WHICH ARE FROM KAGGLE'S NLP TAB ( basic )
